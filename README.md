@@ -16,6 +16,7 @@ Escuela Colombiana de Ingeniería Julio Garavito.
 # Forma de uso
 
 Para hacer uso de esta librería debemos tener en cuenta la forma de escribir un número complejo:
-'''
-uso
-'''
+```
+numeroComplejo = [1,2] 
+```
+Esta es la forma correcta de escribirlo teniendo en cuenta que **1** es la parte real y **2** es su parte imaginaria.
