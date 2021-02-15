@@ -1,5 +1,5 @@
 # CNYT 2021
-Proyecto de librería de operaciones de números complejos.\
+Proyecto de librería de operaciones de números complejos, matrices y vectores.\
 Nelson David Buitrago Rodriguez\
 Escuela Colombiana de Ingeniería Julio Garavito.
 
