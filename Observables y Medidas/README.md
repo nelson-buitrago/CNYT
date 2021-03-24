@@ -1,4 +1,4 @@
-# Observables-Y-Medidas
+# Teoria Cuantica Basica
 # Prerrequisitos
 La libreria puede ser importada en python 3.6
 
